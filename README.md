@@ -1,6 +1,7 @@
 ### Alessandro Canonico
 
-Bocconi CS for AI student in Milan. I build small ML systems end-to-end and write down what worked and what didn't.
+Bocconi Mathematical and Computing Sciences for AI student in Milan.
+BAINSA (Bocconi AI & Neuroscience Association) head of projects
 
 #### Currently shipping
 
@@ -10,12 +11,10 @@ Bocconi CS for AI student in Milan. I build small ML systems end-to-end and writ
 
 #### Interested in
 
-Small models that ship. Evaluation harnesses with honest confidence intervals. Turning vague AI claims into measurable ones.
+Small models that ship. Evaluation harnesses with honest confidence intervals. Turning vague AI claims into measurable ones. ANYTHING AI
 
 #### Reach me
 
-<!-- TODO: pick a contact line (or several). Suggestions, drop what you don't want:
-     - alessandro.canonico2@studbocconi.it
-     - alessandro006@icloud.com
-     - https://www.linkedin.com/in/<your-handle>
--->
+- alessandro.canonico2@studbocconi.it
+- [https://www.linkedin.com/in/alessandro-canonico-9a319a377]
+- [https://www.bainsa.xyz/]
