@@ -16,5 +16,5 @@ Small models that ship. Evaluation harnesses with honest confidence intervals. T
 #### Reach me
 
 - alessandro.canonico2@studbocconi.it
-- [https://www.linkedin.com/in/alessandro-canonico-9a319a377]
-- [https://www.bainsa.xyz/]
+- https://www.linkedin.com/in/alessandro-canonico-9a319a377
+- https://www.bainsa.xyz/]ù
