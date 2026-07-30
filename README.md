@@ -1,12 +1,12 @@
 ### Alessandro Canonico
 
-BSc student in Mathematical and Computing Sciences for AI at Bocconi University (Milan).
+BSc student in Mathematical and Computing Sciences for AI at Bocconi University (Milan).  
 Head of Projects @ BAINSA (Bocconi AI & Neuroscience Association).
 
-#### Currently shipping
+#### Research & projects
 
-- **[lat-defuse](https://github.com/Canonik/lat-defuse)** *(WIP)*: research prototype for mechanistic analysis of distractor interference in RAG. Building reproducible Lat-Defuse implementations on Gemma with Sparse Autoencoder-based representation analysis, latent interventions, and interpretability tooling. [oai_citation:0‡ACL Anthology](https://aclanthology.org/2026.findings-acl.583/?utm_source=chatgpt.com)
-- **[pcen-reconstruction-attacks](https://github.com/Canonik/pcen-reconstruction-attacks)**: edge-only audio classifier with a reconstruction-attack harness for PCEN spectrograms. Bootstrap confidence intervals throughout; the original privacy claim was empirically falsified in the same repository.
+- **[lat-defuse-rag-repair](https://github.com/Canonik/lat-defuse-rag-repair)**: research prototype studying SAE-based activation interventions for repairing distractor-induced errors in RAG.
+- **[pcen-reconstruction-attacks](https://github.com/Canonik/pcen-reconstruction-attacks)**: edge-only audio classifier with a reconstruction-attack harness on PCEN spectrograms. Bootstrap confidence intervals throughout; the original privacy claim was empirically falsified in the same repository.
 - **[bocconi-codex](https://github.com/Canonik/bocconi-codex)**: source-backed AI assistant for Bocconi students. RAG that cites or refuses. Hackathon winner.
 - **[fridge_consumption](https://github.com/Canonik/fridge_consumption)**: household fridge power disaggregation from aggregate electricity readings. Hackathon winner.
 
@@ -17,7 +17,6 @@ Head of Projects @ BAINSA (Bocconi AI & Neuroscience Association).
 - RAG systems
 - AI agents
 - Representation learning
-- (Mostly anything in AI.)
 
 #### Reach me
 
