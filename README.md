@@ -10,8 +10,8 @@ Head of Projects @ BAINSA (Bocconi AI & Neuroscience Association).
  PRIVATE UNTIL PUBLICATION READY
     
 - **[pcen-reconstruction-attacks](https://github.com/Canonik/pcen-reconstruction-attacks)**: edge-only audio classifier with a reconstruction-attack harness on PCEN spectrograms. Bootstrap confidence intervals throughout; the original privacy claim was empirically falsified in the same repository.
+- 
 - **[bocconi-codex](https://github.com/Canonik/bocconi-codex)**: source-backed AI assistant for Bocconi students. RAG that cites or refuses. Hackathon winner.
-- **[fridge_consumption](https://github.com/Canonik/fridge_consumption)**: household fridge power disaggregation from aggregate electricity readings. Hackathon winner.
 
 #### Interested in
 
